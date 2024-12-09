@@ -2,6 +2,8 @@
 
 SQL DATA CLEANING
 
+Data Cleaning is very important step before analysing the data. Cleaned data results in extraction of important information and insights.
+
 For this project:
 Downloaded raw dataset from kaggle 
 url is : https://www.kaggle.com/datasets/swaptr/layoffs-2022
